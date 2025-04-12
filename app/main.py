@@ -145,7 +145,7 @@ def get_radar_chart(input_data):
         visible=True,
         range=[0, 1]
         )),
-    showlegend=True
+    showlegend=True,
     width=800,
     height=600
     )
